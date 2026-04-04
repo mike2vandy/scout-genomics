@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 ## Precision Genomics. Practical Insights.
 
@@ -13,4 +10,4 @@ Scout Genomics LLC provides bioinformatics consulting and genomic data analysis,
 - Custom scripting and data workflows
 
 ### Get in touch
-Email: your@email.com
+Email: mike@scout-genomics.com
